@@ -13,6 +13,6 @@
 <a href="https://steamcommunity.com/id/yeon2122" target="_blank"><img src="https://img.shields.io/badge/Steam Profile-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 </div>
 
-  <iframe src="https://giphy.com/embed/9IQYNSvV0kISY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funimation-cute-evangelion-9IQYNSvV0kISY">via GIPHY</a></p>
+
   
   
