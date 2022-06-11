@@ -8,11 +8,8 @@
 - Age : 21
 
 
-### 개발을 시작하게 된 계기
-
-첫 개발은 10년 전후로 되돌아 갑니다.
-코딩의 'ㅋ' 자도 모르던 초등학생의 저는 그 당시 '마인크래프트'의 게임을 너무 즐겨했었고, 
-어느 날 한글패치 프로그램을 만들기로 결심합니다.
-당시 그 게임에선 한국어를 지원하지 않아 한글패치가 필요했는데 pc방에 가서 할려면 꼭 설치해야 하는
-요소 중 하나였습니다. 저도 그렇고 많은 사람들이 이용하는데
-'어 나도 만들어볼까?'
+<a href="instagram.com/southgb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E9967A?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="blog.naver.com/mcuki" target="_blank"><img src="https://img.shields.io/badge/Naver BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+<a href="https://steamcommunity.com/id/yeon2122" target="_blank"><img src="https://img.shields.io/badge/Steam Profile-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/기버미.31606-148EFF?style=flat-square&logo=Battle.net&logoColor=white"/></a>
+<center> 하이 </center>
