@@ -11,7 +11,6 @@
 
 ---
 <div align='center'>
-  </br>
   <h3>Related Sites</h3>
 <a href="instagram.com/southgb" target="_blank"><img src="https://img.shields.io/badge/Instagram-E9967A?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <a href="blog.naver.com/mcuki" target="_blank"><img src="https://img.shields.io/badge/Naver BLOG-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
