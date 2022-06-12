@@ -1,8 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=CCCCFF&height=150&section=header&text=Welcome%20to%20Ye0nJ's%20GITHUB&fontSize=40&fontColor=333333&fontAlignY=40&desc=Hope%20you%20enjoy!&descSize=17&descAlignY=80)
 
-
-## Introduce about myself Simply! 🧑🏻‍💻
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/9IQYNSvV0kISY" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/funimation-cute-evangelion-9IQYNSvV0kISY">via GIPHY</a></p>
+## Introduce about myself Simply! 📁
 
 - Major : Japanese Language and Literature(1ST), Statistics(2ND)
 - Live in : Republic of Korea
