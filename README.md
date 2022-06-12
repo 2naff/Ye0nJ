@@ -1,6 +1,7 @@
-<div align='center'>
-  ![header](https://capsule-render.vercel.app/api?type=cylinder&color=CCCCFF&height=150&section=header&text=Welcome%20to%20Be0m's%20GITHUB&fontSize=40&fontColor=333333&fontAlignY=40&desc=Hope%20you%20enjoy!&descSize=17&descAlignY=80)
 
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=CCCCFF&height=150&section=header&text=Welcome%20to%20Be0m's%20GITHUB&fontSize=40&fontColor=333333&fontAlignY=40&desc=Hope%20you%20enjoy!&descSize=17&descAlignY=80)
+
+<div align='center'>
 ## Introduce about myself Simply! 🧑🏻‍💻
 
 - Major : Japanese Language and Literature(1st), Statistics(2nd)
