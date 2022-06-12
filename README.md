@@ -4,10 +4,10 @@
 
 ## Introduce about myself Simply! 🧑🏻‍💻
 
-- Major : Japanese Language and Literature(1st), Statistics(2nd)
+- Major : Japanese Language and Literature(1ST), Statistics(2ND)
 - Live in : Republic of Korea
 - Language : Korean, Japanese, and little English 
-- Age : 21
+- Age : 22
 
 ---
 
