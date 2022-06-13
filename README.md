@@ -17,6 +17,17 @@
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a></br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Java-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a></br>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a></br>
+  
+  </br>
+  </br>
+  </br>
+  <h3>🖥 Device SetUp 🖥</h3>
+  <b>Main</b></br>MacBook M1 Pro | 16 inch</br>
+  </br>
+  <b>Second</b></br>Intel I5-6500 | Nvidia GTX960 2GB | 16 RAM</br></br>
+  <b>ETC..</b></br>
+  iphone 11 | Airpods 3 | iPad Air
+  
 </div>
 
   
