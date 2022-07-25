@@ -9,6 +9,9 @@
 <a href="https://steamcommunity.com/id/yeon2122" target="_blank"><img src="https://img.shields.io/badge/Steam Profile-000000?style=flat-square&logo=Steam&logoColor=white"/></a>
 </br>
 </br>
+  <h3> 🤙🏻 Contact 🤙🏻 </h3></br>
+  Email : mcuki2122@gmail.com
+  </br>
 </br>
   <h3>🧑🏻‍💻 Learned Language 🧑🏻‍💻</h3>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a></br>
