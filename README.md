@@ -27,15 +27,7 @@
   </br>
   <h3>🖥 Device SetUp 🖥</h3>
   <b>Main</b></br>MacBook M1 Pro | 16 inch</br>
-  </br>
-  <b>Second</b></br>Intel I5-6500 | Nvidia GTX960 2GB | 16 RAM</br></br>
-  <b>with</b></br>
-  Keyboard : cherry mx board 3.0s Non-RGB</br>
-  Mouse : ABKO Hakcer A250</br>
-  Headset : ABKO HACKER B770 Virtual 7.1 Vibration RGB</br>
-  </br>
-  <b>ETC..</b></br>
-  iphone 11 | Airpods 3 | iPad Air
+ 
   
 </div>
 
